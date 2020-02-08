@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    攀峰的框架
                 </div>
 
                 <div class="links">
